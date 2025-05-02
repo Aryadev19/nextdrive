@@ -47,3 +47,4 @@ A storage management and file sharing platform that lets users effortlessly uplo
 
 and many more, including the latest **React 19**, **Next.js 15** and **Appwrite** features alongside code architecture and
 reusability
+</div>
